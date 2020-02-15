@@ -1,0 +1,452 @@
+
+hr {
+  border: none;
+  border: 1px solid #009933;  
+ 
+}
+
+/*----Navbar----*/
+.navbar {
+	position: relative;
+  background-color:  #009933;
+
+}
+
+.navbar-brand {
+	font-family: Lucida Console;
+	font-size: 18px;
+}
+
+
+.navbar-brand, .nav-link {
+  color: white !important;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+}
+
+.navbar ul li a, a.navlink {
+  color: #fff !important;  
+}
+ 
+.navbar ul li a:hover {
+  color: #ff0 !important;  
+}
+
+.dropdown-menu {
+ background-color: #2E8B57 !important;  
+}
+
+.dropdown-menu a:hover {
+  background-color: #999 !important;  
+}
+
+
+
+/*----Navbar----*/
+
+
+
+
+/*-----LAYANAN-------*/
+
+.marketing {
+   padding-top: 2rem;
+   padding-bottom: 20px;
+
+}
+
+.marketing p{
+  text-align: justify;
+   
+}
+
+
+.marketing a{
+    padding: 10px 10px;   
+    margin: 10px;
+    border-radius: 20px;
+    font-family: Arial;
+
+}
+
+/*---X--LAYANAN----X---*/
+
+
+
+/*---------ARTIKEL-------------------*/
+.artikel{
+   padding-top: 2rem;
+
+}
+
+.artikel h3{
+  width: 180px;
+  height: 40px;
+  background-color: black;
+  color: white;
+ text-align: center;
+  border: 2px black;
+  text-transform: uppercase;
+  font-size: 16px;  
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 10px; 
+  border-left: 8px solid #009933; 
+  padding-top: 8px;
+
+}
+
+
+/*----X-----ARTIKEL---------X----------*/
+
+/*--------------ARTIKEL LAINNYA-----------*/
+
+.artikel-lainnya h3{
+    padding-top: 4rem;
+    border-radius: 10px;
+}
+
+.artikel-lainnya .post-content{
+    padding: 1rem 0;
+}
+
+
+.artikel-lainnya .post-info{
+    padding: .4rem .1rem !important;
+    bottom: 0rem !important;
+    left: 1.5rem !important;
+    border-radius: 0rem !important;
+    background: white !important;
+}
+
+.artikel-lainnya .post-title a{
+    font-size: 1rem;
+}
+
+/*----X----------ARTIKEL LAINNYA-----X------*/
+.block-title {
+  display: block;
+  margin-bottom: 10px;
+  background: #e3e3e3;
+  color: #000;
+  padding: 7px 13px;
+  border-left: 5px solid #5a9e25;
+
+}
+
+.block-title h2 {
+  text-transform: uppercase;
+  font-size: 16px;
+  color: #000;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 0px;
+}
+
+
+/*-----Berita Terkini-------*/
+
+.content h5 {
+  color: black;
+}
+
+.content strong {
+  color: black
+}
+
+.content .col-md-5 {
+  padding-bottom: 15px;
+}
+
+.content .col-md-7 {
+  padding-bottom: 15px;
+}
+
+.content .border-bottom {
+  margin-bottom: 15px;
+}
+
+
+/*-----Berita Terkini-------*/
+.more {
+  font-size: 12px;
+  color: #009933;
+  text-align: center;
+  display: block;
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  padding: 4px 0px;
+  font-weight: bold;
+  background: #f9f9f9;
+  box-shadow: inset 0px -10px 10px -10px rgba(0,0,0,0.1);
+
+}
+
+
+.alamat {
+  background-color: #696969;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 20px
+}
+
+.alamat .hubungi {
+  border-top: solid white;
+  padding-top: 15px;
+}
+
+
+
+
+.alamat .tag-berita {
+  border-top: solid white;
+  padding-top: 15px;
+}
+
+.alamat .tag-berita a{
+  color: white;
+
+}
+
+.alamat .link-terkait {
+  border-top: solid white;
+  padding-top: 15px;
+}
+
+
+.alamat .link-terkait a{
+ color: white;
+}
+
+.alamat .agenda {
+  border-top: solid white;
+  padding-top: 15px;
+}
+
+.alamat .agenda a{
+color: white;
+}
+
+
+
+
+
+/*--------------PRINCIPAL--------------------------*/
+.principal {
+ 
+   padding-top: 2rem;
+   padding-bottom: 20px;
+
+
+}
+
+.principal h4{
+  color: black;
+  text-align: center;
+  font-size: 18px:
+
+
+}
+
+.principal .blog-image img{
+  width: 100%;  
+  border: 2px solid grey; 
+
+}
+
+.principal h6{
+  color: black;
+  padding-top: 20px;
+  text-align: center;
+
+}
+
+.principal p {
+  padding-top: 10px;
+  font-family: Arial;
+  font-size: 16px;
+  text-align: justify;
+
+}
+
+.principal strong{
+color: black;
+}
+
+
+/*-----X-------PRINCIPAL-----------X---------------*/
+
+
+/*--------POPULER------------------------------*/
+
+.kategori {
+padding-bottom: 20px;
+}
+
+.populer .col-md-5 {
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+
+.populer .col-md-7 {
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+
+.populer .col-md-7 a {
+  color: black;
+}
+
+.populer h5 {
+  color: #009933;
+}
+
+
+/*------X--POPULER----------------------X--------*/
+
+/*--------Banner------------------------------*/
+.banner {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.banner h5 {
+  color: #009933;
+}
+
+/*----Tentang kami------*/
+.tentangkami {
+  padding-top: 3rem;
+  
+}
+
+
+.tentangkami p{
+  padding-top: 20px;
+  text-align: justify;
+  font-family: Arial;
+  font-size: 16px;
+}
+/*---x-Tentang kami---x---*/
+
+/*----Gallery------*/
+.gallery {
+margin: 10px 50px
+ 
+}
+
+.gallery img {
+width: 230px;
+padding: 5px;
+filter: grayscale(100%);
+transition: 1s;
+
+}
+
+.gallery img:hover {
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
+
+/*-x---Gallery-x-----*/
+
+/* ----------------- Footer --------------------- */
+
+footer.footer{
+    height: 100%;
+    background: black;
+    position: relative;
+
+}
+
+footer.footer p{
+  color: white;
+}
+
+footer.footer a{
+  color: #009933;
+}
+
+
+footer.footer .container > div{   
+    padding: 40px 20px;
+}
+
+footer.footer .container h2{
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+
+
+footer.footer .follow div i {
+    color: white;
+    padding: 5px;
+
+}
+
+footer.footer .rights{
+    justify-content: center;
+    padding-top: 10px;
+    font-family: Arial;
+}
+
+
+footer.footer .move-up{
+    position: absolute;
+    right: 3%;
+    top: 20%;
+}
+
+footer.footer .move-up span{
+    color: grey;
+}
+
+footer.footer .move-up span:hover{
+    color: white;
+    cursor: pointer;
+}
+
+/*--------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+/*---DEKSTOP VERSION---*/
+@media (min-width: 992px) {
+
+	/*---nav---*/
+
+.navbar-brand, .nav-link {
+	color: white !important;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+}
+
+.navbar ul li a, a.navlink {
+  color: #fff !important;  
+}
+ 
+.navbar ul li a:hover {
+  color: #ff0 !important;  
+}
+
+.dropdown-menu {
+ background-color: #000;  
+}
+
+.dropdown-menu a:hover {
+  background-color: #999 !important;  
+}
+
+/*---./nav---*/
+
+
+
+}
+
